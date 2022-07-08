@@ -12,7 +12,7 @@ body{
 			margin-top: 50px;
 			margin-left: 700px;
 		   margin: 0 auto;  
-		   line-height: 80px;
+		   line-height: 90px;
 }
 
 form{
@@ -65,7 +65,7 @@ button:hover{
 
 .signIn{
 				color: white;
-				font-size: 50px;
+				font-size: 47px;
 				
 }
 
